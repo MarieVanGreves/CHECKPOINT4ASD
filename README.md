@@ -15,5 +15,3 @@ Ce projet vise à déployer PythonCMS, un système de gestion de contenu basé s
 4. [Sécurité et Surveillance](docs/securite_et_surveillance.md)
 5. [Déploiement Initial](docs/deploiement_initial.md)
 
-## Contact
-Pour toute question, veuillez contacter [votre email].
